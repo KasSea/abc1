@@ -1,0 +1,6 @@
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DTO1\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DTO1\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DTO1\bin\Debug\DTO.dll
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DTO1\bin\Debug\DTO.pdb
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DTO1\obj\Debug\DTO.dll
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DTO1\obj\Debug\DTO.pdb

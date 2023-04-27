@@ -1,0 +1,6 @@
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DAL1\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DAL1\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DAL1\bin\Debug\DAL.dll
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DAL1\bin\Debug\DAL.pdb
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DAL1\obj\Debug\DAL.dll
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DAL1\obj\Debug\DAL.pdb

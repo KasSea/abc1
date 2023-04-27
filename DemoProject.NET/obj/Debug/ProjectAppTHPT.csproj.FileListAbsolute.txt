@@ -1,0 +1,15 @@
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\bin\Debug\DemoProject.NET.exe.config
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\bin\Debug\DemoProject.NET.exe
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\bin\Debug\DemoProject.NET.pdb
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\bin\Debug\Guna.UI.dll
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\bin\Debug\Guna.UI2.dll
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\obj\Debug\ProjectAppTHPT.csproj.AssemblyReference.cache
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\obj\Debug\ProjectAppTHPT.csproj.SuggestedBindingRedirects.cache
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\obj\Debug\DemoProject.NET.frmHome.resources
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\obj\Debug\DemoProject.NET.frmLogin.resources
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\obj\Debug\DemoProject.NET.Properties.Resources.resources
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\obj\Debug\ProjectAppTHPT.csproj.GenerateResource.cache
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\obj\Debug\ProjectAppTHPT.csproj.CoreCompileInputs.cache
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\obj\Debug\ProjectAppTHPT.csproj.CopyComplete
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\obj\Debug\DemoProject.NET.exe
+D:\ALL_EAUT\LAPTRINH.NET\BÀITậpLớn\DemoProject.NET\DemoProject.NET\obj\Debug\DemoProject.NET.pdb
